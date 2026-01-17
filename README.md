@@ -7,24 +7,24 @@ This project analyzes IT help desk issue data to evaluate service demand, resolu
 ## Project Context
 Designed as an executive-level dashboard for IT Services leadership to monitor issue trends, resolution performance, and process efficiency.
 
-## Key Questions Answered
+## 🔍 Key Questions Answered
 - How does issue volume change over time?
 - Are issues being resolved efficiently?
 - Where do process bottlenecks occur?
 - How reliable is the underlying data?
 
-## Tools Used
+## 🛠 Tools Used
 - Power BI
 - Power Query
 - DAX
 
-## Key Insights
-- Issue intake shows seasonal variation with lower demand from spring through late summer.
+## 📈 Key Outcomes
+- Issue intake shows seasonal fluctuations in issue volume.
 - Closure rates remain consistently high, indicating capacity alignment during lower-intake periods.
 - Medium-priority issues exhibit longer resolution times, suggesting optimization opportunities.
 - Workflow analysis highlights specific process phases contributing most to resolution delays.
 
-## Data Quality Considerations
+## 📌 Data Quality Considerations
 Legacy issues lacking priority and resolution timestamps were excluded from performance metrics and reported separately to maintain analytical integrity.
 
 
